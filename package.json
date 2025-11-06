@@ -1,0 +1,24 @@
+{
+  "name": "hack4impactbootcamp",
+  "version": "1.0.0",
+  "description": "This is a personal website built using the Hack4Impact Starter Pack! \r [Visit it Here!](https://Iman-J-Gangeh.github.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iman-J-Gangeh/imangangeh.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Iman-J-Gangeh/imangangeh.github.io/issues"
+  },
+  "homepage": "https://github.com/Iman-J-Gangeh/imangangeh.github.io#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
